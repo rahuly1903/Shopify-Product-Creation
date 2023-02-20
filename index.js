@@ -38,5 +38,3 @@ app.post("/api/create-product", async (req, res) => {
 app.listen(port, () => {
   console.log(`Server running on port ${port}`);
 });
-
-// https://rentaromper.com/tools/recurring/portal/ad1acf46f17539b211247c09d43ce9/subscriptions?token=90fc6793d67748c9827dbb9c06e4353c
